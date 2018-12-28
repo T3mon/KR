@@ -1,0 +1,17 @@
+﻿  ConsoleApplication53.cpp
+c:\users\artem\source\repos\consoleapplication53\consoleapplication53\consoleapplication53.cpp(45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\artem\source\repos\consoleapplication53\consoleapplication53\consoleapplication53.cpp(46): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\artem\source\repos\consoleapplication53\consoleapplication53\consoleapplication53.cpp(64): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\artem\source\repos\consoleapplication53\consoleapplication53\consoleapplication53.cpp(94): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\artem\source\repos\consoleapplication53\consoleapplication53\consoleapplication53.cpp(100): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\artem\source\repos\consoleapplication53\consoleapplication53\consoleapplication53.cpp(106): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\artem\source\repos\consoleapplication53\consoleapplication53\consoleapplication53.cpp(113): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\artem\source\repos\consoleapplication53\consoleapplication53\consoleapplication53.cpp(125): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\artem\source\repos\consoleapplication53\consoleapplication53\consoleapplication53.cpp(126): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\artem\source\repos\consoleapplication53\consoleapplication53\consoleapplication53.cpp(127): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\artem\source\repos\consoleapplication53\consoleapplication53\consoleapplication53.cpp(128): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\artem\source\repos\consoleapplication53\consoleapplication53\consoleapplication53.cpp(130): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\artem\source\repos\consoleapplication53\consoleapplication53\consoleapplication53.cpp(131): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\artem\source\repos\consoleapplication53\consoleapplication53\consoleapplication53.cpp(132): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\artem\source\repos\consoleapplication53\consoleapplication53\consoleapplication53.cpp(133): warning C4305: аргумент: усечение из "double" в "float"
+  ConsoleApplication53.vcxproj -> C:\Users\Artem\source\repos\ConsoleApplication53\Debug\ConsoleApplication53.exe
